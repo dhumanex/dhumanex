@@ -1,6 +1,6 @@
 # Hi, I'm David Humanes 👋
 
-Full Stack Developer in training, currently finishing DAW.
+Desarrollador de Software Junior especializado en desarrollo web y aplicaciones multiplataforma.
 
 ## Technologies
 - HTML
