@@ -6,35 +6,6 @@ After completing my studies in Multiplatform Application Development, I'm curren
 
 I also bring 18 years of professional experience in the book industry, giving me a strong understanding of real business processes, customer needs and teamwork.
 
-## 🚀 Tech Stack
-
-### Backend
-- Java
-- Spring Boot
-- REST APIs
-- Maven
-- JPA / Hibernate
-
-### Databases
-- PostgreSQL
-- MySQL
-- SQL
-- Flyway
-
-### Web
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Maven
-- pgAdmin
-
 ## 📌 Featured Projects
 
 ### 🎫 TicketDesk
@@ -52,8 +23,33 @@ Main features:
 
 **Technologies:** Java · Spring Boot · PostgreSQL · JPA · Hibernate · Flyway · Maven · REST API
 
----
+## 🚀 Tech Stack
 
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Maven
+- JPA / Hibernate
+### Databases
+- PostgreSQL
+- MySQL
+- SQL
+- Flyway
+### Web
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Maven
+- pgAdmin
+---
 ### 📦 ReposBar
 Application designed to manage beverage and consumable stock replenishment.
 
