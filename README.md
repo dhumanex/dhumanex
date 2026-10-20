@@ -23,6 +23,13 @@ Main features:
 
 **Technologies:** Java · Spring Boot · PostgreSQL · JPA · Hibernate · Flyway · Maven · REST API
 
+### 📦 ReposBar
+Application designed to manage beverage and consumable stock replenishment.
+
+Developed as a practical project focused on solving a real-world stock management problem.
+
+**Technologies:** Java · SQL · Web technologies · Git
+
 ## 🚀 Tech Stack
 
 ### Backend
@@ -49,13 +56,6 @@ Main features:
 - Postman
 - Maven
 - pgAdmin
----
-### 📦 ReposBar
-Application designed to manage beverage and consumable stock replenishment.
-
-Developed as a practical project focused on solving a real-world stock management problem.
-
-**Technologies:** Java · SQL · Web technologies · Git
 
 ## 🌱 Currently improving
 
